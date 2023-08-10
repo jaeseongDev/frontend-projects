@@ -15,6 +15,14 @@
 
 <br/>
 
+### 💻 반응형 프로젝트
+
+|          Project          |                               Demo Site                                |                                                 Repository                                                  |
+|:-------------------------:|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| Loruki Deployment Website | [Demo](https://timely-sprinkles-5ae9c9.netlify.app/) | [loruki-website](https://github.com/jaeseongDev/loruki-website) - private |
+
+<br/>
+
 ### 💻 Next.js 프로젝트
 
 |          Project          |                               Demo Site                                |                                                 Repository                                                  |
